@@ -17,5 +17,4 @@ JavaScript stuff:
 * [Naming conventions](https://www.w3schools.com/js/js_conventions.asp)  
 * [Best practices](https://www.w3schools.com/js/js_best_practices.asp)  
 * [Common mistakes](https://www.w3schools.com/js/js_mistakes.asp)  
-* [Functional JavaScript](https://opensource.com/article/17/6/functional-javascript)  
 <br/>
