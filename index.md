@@ -1,2 +1,9 @@
-[hello.htm](hello.htm) ([view source](javascript:viewSource("hello.htm")))
-<script src="viewSource.js"></script>
+Basic html page: [hello.htm](hello.htm)  
+
+Online code playgrounds:
+* https://jsfiddle.net/
+* https://codepen.io/
+
+Basics:
+* https://stackoverflow.com/questions/1163738/htm-vs-html
+* more to come
