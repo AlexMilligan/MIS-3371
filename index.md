@@ -3,7 +3,7 @@ title: MIS-3371 - A student-created guide
 
 ---
 
-### My guides  
+### My guides:  
 
 Basic html page: [hello.html](hello.html)  
 
@@ -14,8 +14,8 @@ Basic html page: [hello.html](hello.html)
 [JavaScript things worth learning!](learn-js/)  
 
 [Essential knowledge this class](/404.html) _(coming soon!)_  
-In the meantime, just look at everything html/css/js related on the syllabus  
-And don't forget to do the practice exams
+In the meantime, just look at everything html/css/js related on the syllabus.  
+Don't forget to do the practice exams!
 
 ---
 
@@ -29,10 +29,10 @@ Midterm study guide: <https://www.bauer.uh.edu/parks/study.htm>
 ### Online code playgrounds:  
 * <https://jsfiddle.net/>  
 * <https://codepen.io/pen/>  
-<br/>
 
 ---
 
 ### [Create a GitHub Pages site just like this one!](https://pages.github.com/)  
-[_And here's the link to anything you need help with on GitHub Pages_](https://help.github.com/en#github-pages-basics)  
+[_And here's the link to anything you need help with regarding GitHub Pages_](https://help.github.com/en#github-pages-basics)  
+Don't forget to check the [source](https://github.com/AlexMilligan/MIS-3371) of this website!  
 
