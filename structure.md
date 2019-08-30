@@ -3,14 +3,14 @@ title: Website File Structure Guidelines
 ---
 
 # How should I organize files for my website?
-[MDN's guide on website file structure](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/Dealing_with_files)
+#### [MDN's guide on website file structure](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/Dealing_with_files)
 
-## Good habits to follow:
+## Good habits to follow
 
-### Folder and file names:
-* should be lowercase
-* should contain no spaces
-* may have words separated by hyphens `-` but not underscores `_`
+### Folder and file names:  
+* should be lowercase  
+* should contain no spaces  
+* may have words separated by hyphens `-` but not underscores `_`  
 
 ### Basic directory structure:
 ```
@@ -51,8 +51,6 @@ title: Website File Structure Guidelines
 |-- faq.html
 `-- search.php
 ```
-
-Most file names are examples.
 
 ---
 ### How to use `images/cats/cat.jpg` in `index.html`:

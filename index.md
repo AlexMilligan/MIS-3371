@@ -3,7 +3,7 @@ title: MIS-3371 - A student-created guide
 
 ---
 
-Please keep in mind that not everything on here is relevant to MIS-3371, but, if you have the time, this will help you understand how the front-end of a website is built.
+Please keep in mind that not everything on here is relevant to MIS-3371, but, if you have the time, this will help you understand how the front-end of a website is built.  
 
 ### My guides:  
 
@@ -17,11 +17,11 @@ Basic html page: [hello.html](hello.html)
 
 [Essential knowledge this class](/404.html) _(coming soon!)_  
 In the meantime, just look at everything html/css/js related on the syllabus.  
-Don't forget to do the practice exams!
+Don't forget to do the practice exams!  
 
 ---
 
-### Official class stuff:
+### Official class stuff:  
 Syllabus: <https://www.bauer.uh.edu/parks/mis3371.htm>  
 HTML examples: <https://www.bauer.uh.edu/parks/html_examples.htm>  
 Midterm study guide: <https://www.bauer.uh.edu/parks/study.htm>  
