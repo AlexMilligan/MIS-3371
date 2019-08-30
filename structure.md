@@ -66,6 +66,12 @@ Most file names are examples.
 The `../` goes up a directory.  
 When we are at `events.html`, we are inside the `members/` directory. From here, we have to travel up a directory, where we can then access `images/`, `scripts/`, and even `search.php`.  
 
+### Here's another way to access `dog.png` from `events.html`:
+```html
+  <img src="/images/dogs/dog.png">
+```
+Did you notice that the reference path started with `/`? This means that we start our directory navigation from the root directory. Thus, we can be on any page in any subdirectory of this site, and this reference will lead to the same `dog.png` from each page.  
+
 ---
 Last modified on 8/29/2019.  
 _more tips to possibly come..._  
