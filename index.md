@@ -1,4 +1,7 @@
-Basic html page: [hello.htm](hello.htm)  
+Basic html page: [hello.html](hello.html)  
+<br/>
+
+[Website file structure guidelines](structure.md)  
 <br/>
 
 Syllabus: <https://www.bauer.uh.edu/parks/mis3371.htm>  
