@@ -6,22 +6,42 @@
     <title>hello</title>
     <script src="src/viewsource.js"></script>
     <style>
+        h1,h2,h3,h4,h5,h6 {
+            margin-top: 10px;
+            padding: 0px;
+        }
         body {
             background-color: azure;
         }
-        .content {
+        main {
             background-color: white;
-            max-width: 960px;
+            max-width: 850px;
+            min-height: 525px;
             margin: 25px auto;
-            padding: 25px;
-            border-radius: 8px;
+            padding: 20px;
+            border-radius: 5px;
             box-shadow: 0 0 20px rgba(0,0,0,.2);
+        }
+        p {
+            margin: 0px;
+        }
+        ol {
+            line-height: 1.5;
+            margin-bottom: 0px;
+        }
+        pre {
+            border: solid 1px lightgray;
+            padding: 5px;
+        }
+        hr {
+            color: darkcyan;
+            margin-bottom: 18px;
         }
     </style>
 </head>
 
 <body>
-<div class = "content">
+<main> <!-- semantic tags - see more at https://www.w3schools.com/html/html5_semantic_elements.asp -->
     
     <h1>Hello, world</h1>
     <p id="intro"></p>
@@ -29,17 +49,16 @@
     <br/>
     <!-- this is a comment -->
     
-    <a href="javascript:viewSource()">View the source of this page</a>
-    <br/><br/>    
-    <a href="https://www.sitepoint.com/a-minimal-html-document-html5-edition/">Minimum html necessary for a page</a>
-    <br/><br/>
-    
+    <p><a href="javascript:viewSource()">View the source of this page</a></p>
+    <br/>
+    <p><a href="https://www.sitepoint.com/a-minimal-html-document-html5-edition/">Minimum html necessary for a page</a></p>
+    <br/>
     <hr>
     <h2>How to create your first html file</h2>
     <ol><li>Create a file named <code>hello.htm</code>. Make sure the extension of that file is <code title="Windows: File explorer > view > show/hide > file name extensions">.htm</code>.</li>
     <li>Open <code>hello.htm</code> with a basic text editor, such as Notepad (Windows) or <a href="https://code.visualstudio.com/">VS Code</a> (my favorite editor).</li>
     <li>Paste the following code into the editor and then save the file:</li>
-<pre><code>&lt;!DOCTYPE html&gt;
+<pre><code language="html">&lt;!DOCTYPE html&gt;
 &lt;html&gt;
  &lt;body&gt;
   &lt;p&gt;Hello, world!&lt;/p&gt;
@@ -49,11 +68,10 @@
     <li>Open <code>hello.htm</code> with the browser of your choice.</li>
     </ol>
     <br/>
-    
     <hr>
     <p>Which extension to use? <a href="https://stackoverflow.com/questions/1163738/htm-vs-html">htm vs. html</a></p>
     
-</div>
+</main>
 </body>
 
 </html>
