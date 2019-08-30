@@ -3,43 +3,47 @@
 ### Folder and file names:
 * should be lowercase
 * should contain no spaces
-* may have words separated by dashes (`-`) but not underscores (`_`)
+* may have words separated by dashes `-` but not underscores `_`
 
 ### Basic directory structure:
-* (root website folder)
-  * `index.html`
-  * `styles/` folder &#8722; should hold all and only `.css` files
-  * `scripts/` folder  &#8722; should hold all and only `.js` files
-
-The `styles` and `scripts` folders may have subfolders.
+```
+.
+|-- index.html
+|-- styles/    (holds CSS files)
+|   `-- main.css
+`-- scripts/   (holds JavaScript files)
+    `-- myscript.js
+```
 
 ### Sample directory structure:
-* (root website folder)
-  * `index.html`
-  * `images/` folder
-    * `cats/` folder
-      * `cat.jpg`
-      * `morecats.gif`
-    * `dogs/` folder
-      * `dog.png`
-      * `doge.bmp`
-  * `styles/` folder
-    * `layout.css`
-    * `main.css`
-    * `nav.css`
-  * `scripts/` folder
-    * `myscript.js`
-    * `anotherscript-2.0.1.js`
-    * `etc.js`
-  * `members/` folder
-    * `index.html`
-    * `events.html`
-  * `about.html`
-  * `contact.html`
-  * `terms.html`
-  * `privacy.html`
-  * `faq.html`
-  * `search.php`
+```
+.
+|-- index.html
+|-- images/
+|   |-- cats/
+|   |   |-- cat.jpg
+|   |   `-- morecats.gif
+|   `-- dogs/
+|       |-- dog.png
+|       `-- doge.bmp
+|-- styles/
+|   |-- layout.css
+|   |-- main.css
+|   `-- nav.css
+|-- scripts/
+|   |-- myscript.js
+|   |-- anotherscript-2.0.1.js
+|   `-- etc.js
+|-- members/
+|   |-- index.html
+|   `-- events.html
+|-- about.html
+|-- contact.html
+|-- terms.html
+|-- privacy.html
+|-- faq.html
+`-- search.php
+```
 
 Most file names are examples.
 
@@ -57,4 +61,5 @@ When we are at `events.html`, we are inside the `members/` directory. From here,
 
 ---
 
-### See MDN's guide [here](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/Dealing_with_files).
+### See MDN's guide [here](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/Dealing_with_files).  
+
