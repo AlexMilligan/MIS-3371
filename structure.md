@@ -1,4 +1,4 @@
-# How should I organize the files for my website?
+# How should I organize files for my website?
 [MDN's guide on website file structure](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/Dealing_with_files)
 
 ## Good habits to follow:

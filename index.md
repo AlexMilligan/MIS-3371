@@ -4,9 +4,9 @@ Basic html page: [hello.html](hello.html)
 [Website file structure guidelines](structure.md)  
 <br/>
 
-[learn-html](learn-html/)
-[learn-css](learn-css/)
-[learn-js](learn-js/)
+[learn-html](learn-html/)  
+[learn-css](learn-css/)  
+[learn-js](learn-js/)  
 <br/>
 
 Syllabus: <https://www.bauer.uh.edu/parks/mis3371.htm>  
