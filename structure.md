@@ -1,9 +1,12 @@
-## For beginners, these are good habits to follow with regards to the file structure of a website.
+# How should I organize the files for my website?
+[MDN's guide on website file structure](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/Dealing_with_files)
+
+## Good habits to follow:
 
 ### Folder and file names:
 * should be lowercase
 * should contain no spaces
-* may have words separated by dashes `-` but not underscores `_`
+* may have words separated by hyphens `-` but not underscores `_`
 
 ### Basic directory structure:
 ```
@@ -22,7 +25,7 @@
 |-- images/
 |   |-- cats/
 |   |   |-- cat.jpg
-|   |   `-- morecats.gif
+|   |   `-- more-cats.gif
 |   `-- dogs/
 |       |-- dog.png
 |       `-- doge.bmp
@@ -60,6 +63,5 @@ The `../` goes up a directory.
 When we are at `events.html`, we are inside the `members/` directory. From here, we have to travel up a directory, where we can then access `images/`, `scripts/`, and even `search.php`.  
 
 ---
-
-### See MDN's guide [here](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/Dealing_with_files).  
-
+Last modified on 8/29/2019.  
+_more tips to possibly come..._  
