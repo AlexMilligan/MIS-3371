@@ -3,6 +3,8 @@ title: MIS-3371 - A student-created guide
 
 ---
 
+Please keep in mind that not everything on here is relevant to MIS-3371, but, if you have the time, this will help you understand how the front-end of a website is built.
+
 ### My guides:  
 
 Basic html page: [hello.html](hello.html)  
