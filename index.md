@@ -24,9 +24,18 @@ Don't forget to do the practice exams!
 ---
 
 ### Official class stuff:  
-Syllabus: <https://www.bauer.uh.edu/parks/mis3371.htm>  
-HTML examples: <https://www.bauer.uh.edu/parks/html_examples.htm>  
-Midterm study guide: <https://www.bauer.uh.edu/parks/study.htm>  
+
+<div style="overflow:auto">
+<div style="display:inline-block">
+<a href="https://www.bauer.uh.edu/parks/mis3371.htm">Syllabus</a><br/>  
+<a href="https://www.bauer.uh.edu/parks/html_examples.htm">HTML examples</a><br/>  
+<a href="https://www.bauer.uh.edu/parks/study.htm">Midterm study guide</a><br/>  
+</div>
+<div style="text-align:center;float:right;border:dotted 1px silver">
+<dl style="line-height:1.15;">MISSO TP Coding Times:
+<dt>Mondays</dt><dd>1:00 - 2:30 PM, <em>Location TBD</em></dd>
+<dt>Thursdays</dt><dd>2:30 - 4:00 PM, <em>Location TBD</em></dd>
+</dl></div></div>
 
 ---
 
