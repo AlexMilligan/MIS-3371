@@ -53,6 +53,9 @@ title: Website File Structure Guidelines
 ```
 
 ---
+## Now that I have my files organized, how do I access them from a webpage?
+__[Here's a step-by-step guide](accessing-files.md) on how to use files on your webpage.__  
+
 ### How to use `images/cats/cat.jpg` in `index.html`:
 ```html
   <img src="images/cats/cat.jpg">
@@ -65,5 +68,5 @@ The `../` goes up a directory.
 When we are at `events.html`, we are inside the `members/` directory. From here, we have to travel up a directory, where we can then access `images/`, `scripts/`, and even `search.php`.  
 
 ---
-Last modified on 8/29/2019.  
+Last modified on September 1, 2019.  
 _more tips to possibly come..._  
