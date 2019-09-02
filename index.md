@@ -10,7 +10,7 @@ Please keep in mind that not everything in this website is directly used in MIS-
 Basic HTML page: [hello.html](hello.html)  
 
 [Website file structure guidelines](structure.md)  
-[How to access files](accessing-files.md)  
+[How to access files](accessing-files.md) _(coming soon!)_  
 
 [HTML things worth learning!](learn-html/)  
 [CSS things worth learning!](learn-css/)  
