@@ -1,0 +1,9 @@
+---
+---
+
+/* set values of sass variables used in the import between here and the import */
+
+@import "{{ site.theme }}"; /* jekyll-theme-slate style: https://github.com/pages-themes/slate/tree/master/_sass */
+
+/* site-specific scss goes below here */
+
