@@ -37,7 +37,9 @@ Don't forget to do the practice exams!
 <dl style="line-height:1.15;">MISSO TP Coding Times:
 <dt>Mondays</dt><dd>1:00 - 2:30 PM, <em>Location TBD</em></dd>
 <dt>Thursdays</dt><dd>2:30 - 4:00 PM, <em>Location TBD</em></dd>
-</dl></div></div>
+</dl>
+<p>TP Officer: <a href="mailto:tp@misso.org">Timothy Altemus</a></p>
+</div></div>
 
 ---
 
