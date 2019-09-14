@@ -8,6 +8,7 @@ Please keep in mind that not everything in this website is directly used in MIS-
 
 [HTML, CSS and JavaScript  What are they?](html-css-js.md)  
 Basic HTML page: [hello.html](hello.html)  
+[JavaScript Links, learning order](js-links.md)  
 
 [Website file structure guidelines](structure.md)  
 [How to access files](accessing-files.md) _(coming soon!)_  
