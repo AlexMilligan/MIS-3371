@@ -2,7 +2,8 @@
 ---
 <h1 style="border:0px;margin:0;padding:0;">HTML, CSS, and JavaScript</h1>
 <p><strong><em>What's the difference?</em></strong></p>
-
+HTML, CSS, and JavaScript are all languages that do different things, but together, they create interactive, styled webpages.  
+  
 ---
 <h3 style="margin:0px">HTML - The Structure</h3>
 <p><strong>It tells your browser which information goes into which container.</strong></p>
@@ -24,6 +25,8 @@ Say you have an article that you want to post to the web. Suppose this article h
 It is clear which elements should contain what information about the article.  
 
 HTML files do not usually specify how elements are visually presented; CSS usually does that task.  
+
+_(to be included: html syntax basics)_  
 
 ---
 <h3 style="margin:0px">CSS - The Style</h3>
@@ -51,6 +54,20 @@ h2 {
   color: blue;
 }
 ```
+
+_(to be included: css syntax basics)_  
+
+CSS can be written into a `.css` file dedicated to storing only CSS code or embedded directly into an HTML `<style>` element.  
+
+Remnants of CSS syntax can be found in values for `style` attributes in HTML elements:  
+`<p style="color: silver">This is silver text</p>`.  
+_Note that only `color: silver` in the example above is using CSS syntax._
+
+JavaScript can change the styles of HTML elements by using a slightly different syntax:  
+`element.style.color`.  
+
+The following line of code will change the style of all `p` elements for a page:  
+`for(let e of Array.from(document.getElementsByTagName("p"))) { e.style.color = "silver"; }`.  
 
 ---
 <h3 style="margin:0px">JavaScript - The Manipulator</h3>
