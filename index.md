@@ -6,18 +6,18 @@ Please keep in mind that not everything in this website is directly used in MIS-
 
 ### My guides:  
 
-[HTML, CSS and JavaScript  What are they?](html-css-js.md)  
+[HTML, CSS and JavaScript  What are they?](html-css-js)  
 Basic HTML page: [hello.html](hello.html)  
-[JavaScript Links, learning order](js-links.md)  
+[JavaScript Links - learning order](js-links)  
 
-[Website file structure guidelines](structure.md)  
+[Website file structure guidelines](structure)  
 [How to access files](accessing-files.md) _(coming soon!)_  
 
 [HTML things worth learning!](learn-html/)  
 [CSS things worth learning!](learn-css/)  
 [JavaScript things worth learning!](learn-js/)  
 
-[Essential knowledge for this class](essential.md) _(coming soon!)_  
+[Essential knowledge for this class](essential) _(coming soon!)_  
 In the meantime, just look at everything html/css/js related on the syllabus.  
 Don't forget to do the practice exams!  
 
@@ -52,5 +52,5 @@ Don't forget to do the practice exams!
 
 ### [Create a GitHub Pages site just like this one!](https://pages.github.com/)  
 [_And here's the link to anything you need help with regarding GitHub Pages_](https://help.github.com/en#github-pages-basics)  
-Don't forget to check the [source](https://github.com/AlexMilligan/MIS-3371) of this website[!](super-secret-page.md)  
+Don't forget to check the [source](https://github.com/AlexMilligan/MIS-3371) of this website[!](super-secret-page)  
 
