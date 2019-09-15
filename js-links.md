@@ -60,7 +60,7 @@ _stopped at September 18 in syllabus_
 
 
 
-<a href="study.htm">Midterm Study Guide</a>  
+<a href="https://www.bauer.uh.edu/parks/study.htm">Midterm Study Guide</a>  
 
 
 
