@@ -35,12 +35,12 @@ Program control:
 [Parks' take on loops](https://www.bauer.uh.edu/parks/vbloops.htm)  
 
 More about Functions:  
-_Keep in mind that functions should be named as verbs._
+_Keep in mind that functions should be named as verbs._  
 [Function Definitions](https://www.w3schools.com/js/js_function_definition.asp)  
 [Function Parameters](https://www.w3schools.com/js/js_function_parameters.asp)  
 
 More about Objects:  
-_Keep in mind that objects/variables should be named as nouns._
+_Keep in mind that objects/variables should be named as nouns._  
 [Object Definitions](https://www.w3schools.com/js/js_object_definition.asp)  
 [Object Properties](https://www.w3schools.com/js/js_object_properties.asp)  
 [Object Methods](https://www.w3schools.com/js/js_object_methods.asp)  
