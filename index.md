@@ -2,9 +2,9 @@
 title: MIS-3371 - A student-created guide
 ---
 
-## My guides  
+### My guides  
 
-### Basics  
+#### Basics:  
 
 [HTML, CSS and JavaScript  What are they?](html-css-js)  
 Basic HTML page: [hello.html](hello.html)  
@@ -13,7 +13,7 @@ Basic HTML page: [hello.html](hello.html)
 [Website file structure guidelines](structure)  
 [How to access files](accessing-files.md) _(coming soon!)_  
 
-### Get down to business  
+#### Get down to business:  
 
 [Essential knowledge for this class](essential) _(coming soon!)_  
 In the meantime, just look at everything html/css/js related on the syllabus.  
@@ -26,7 +26,7 @@ Don't forget to do the practice exams!
 [Midterm exam walkthroughs](midterms/) _(coming soon!)_  
 [Final exam walkthroughs](finals/) _(coming soon!)_  
 
-### Extra stuff that probably would waste time right now until I redo it  
+#### Extra stuff that probably would waste time right now until I redo it:  
 
 [HTML things worth learning!](learn-html/)  
 [CSS things worth learning!](learn-css/)  
@@ -35,7 +35,7 @@ Don't forget to do the practice exams!
 
 ---
 
-## Official class stuff:  
+### Official class stuff  
 
 <div style="overflow:auto">
 <div style="display:inline-block">
@@ -53,7 +53,15 @@ Don't forget to do the practice exams!
 
 ---
 
-## Online code playgrounds:  
+### GroupMe
+
+[Join the GroupMe](https://groupme.com/join_group/52537664/K60bMBSR)  
+
+[Videos posted on GroupMe](https://www.youtube.com/playlist?list=PLr6xZiVWnQ3qfxZt9sBucqSr4Qn7Zaj4i) (you can add videos to this playlist)  
+
+---
+
+### Online code playgrounds:  
 <https://jsfiddle.net/>  
 <https://codepen.io/pen/>  
 
