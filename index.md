@@ -2,9 +2,9 @@
 title: MIS-3371 - A student-created guide
 ---
 
-Please keep in mind that not everything in this website is directly used in MIS-3371, but, if you have the time, this will help you understand how the front-end of a website is built.  
+## My guides  
 
-### My guides:  
+### Basics  
 
 [HTML, CSS and JavaScript  What are they?](html-css-js)  
 Basic HTML page: [hello.html](hello.html)  
@@ -13,20 +13,29 @@ Basic HTML page: [hello.html](hello.html)
 [Website file structure guidelines](structure)  
 [How to access files](accessing-files.md) _(coming soon!)_  
 
-[HTML things worth learning!](learn-html/)  
-[CSS things worth learning!](learn-css/)  
-[JavaScript things worth learning!](learn-js/)  
+### Get down to business  
 
 [Essential knowledge for this class](essential) _(coming soon!)_  
 In the meantime, just look at everything html/css/js related on the syllabus.  
 Don't forget to do the practice exams!  
 
+[Assignment 1 guide](assignments/a1j-guide)  
+[Assignment 2 guide](assignments/a2j-guide)  
+[Assignment 3 guide](assignments/a3-guide)  
+
 [Midterm exam walkthroughs](midterms/) _(coming soon!)_  
 [Final exam walkthroughs](finals/) _(coming soon!)_  
 
+### Extra stuff that probably would waste time right now until I redo it  
+
+[HTML things worth learning!](learn-html/)  
+[CSS things worth learning!](learn-css/)  
+[JavaScript things worth learning!](learn-js/)  
+
+
 ---
 
-### Official class stuff:  
+## Official class stuff:  
 
 <div style="overflow:auto">
 <div style="display:inline-block">
@@ -44,7 +53,7 @@ Don't forget to do the practice exams!
 
 ---
 
-### Online code playgrounds:  
+## Online code playgrounds:  
 <https://jsfiddle.net/>  
 <https://codepen.io/pen/>  
 
