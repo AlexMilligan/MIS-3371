@@ -1,4 +1,4 @@
-https://www.youtube.com/watch?v=9liURny9oUU  
+[misso assignment 1 video](https://www.youtube.com/watch?v=9liURny9oUU)  
 
 1. how many words are the string named "beg"? (words not characters)
 
