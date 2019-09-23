@@ -49,6 +49,7 @@ Don't forget to do the practice exams!
 <dt>Thursdays</dt><dd>2:30 - 4:00 PM, <em>Location TBD</em></dd>
 </dl>
 <p>TP Officer: <a href="mailto:tp@misso.org">Timothy Altemus</a></p>
+<p><a href="https://www.youtube.com/channel/UCcUzqnUexb6u6csomGit_wA">YouTube</a></p>
 </div></div>
 
 ---
