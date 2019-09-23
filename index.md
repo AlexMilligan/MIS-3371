@@ -19,9 +19,9 @@ Basic HTML page: [hello.html](hello.html)
 In the meantime, just look at everything html/css/js related on the syllabus.  
 Don't forget to do the practice exams!  
 
-[Assignment 1 guide](assignments/a1j-guide)  
-[Assignment 2 guide](assignments/a2j-guide)  
-[Assignment 3 guide](assignments/a3-guide)  
+[Assignment 1 guide](assignments/a1j-guide) _(work in progress)_  
+[Assignment 2 guide](assignments/a2j-guide) _(work in progress)_  
+[Assignment 3 guide](assignments/a3-guide) _(work in progress)_  
 
 [Midterm exam walkthroughs](midterms/) _(coming soon!)_  
 [Final exam walkthroughs](finals/) _(coming soon!)_  
@@ -71,4 +71,3 @@ Don't forget to do the practice exams!
 ### [Create a GitHub Pages site just like this one!](https://pages.github.com/)  
 [_And here's the link to anything you need help with regarding GitHub Pages_](https://help.github.com/en#github-pages-basics)  
 Don't forget to check the [source](https://github.com/AlexMilligan/MIS-3371) of this website[!](super-secret-page)  
-
