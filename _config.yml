@@ -2,4 +2,4 @@ theme: jekyll-theme-slate
 plugins:
   - jekyll-seo-tag
 title: MIS 3371 - Transaction Processing I
-#description: University of Houston - MIS3371 - Transaction Processing 1 (TP/TP1)- general guide - learn html, css, and javascript - set up a website - midterm and final exam preparation - aspiring to be the one-stop source for all mis3371-related needs
+google_analytics: University of Houston - MIS3371 - Transaction Processing 1 (TP/TP1)- general guide - learn html, css, and javascript - set up a website - midterm and final exam preparation - aspiring to be the one-stop source for all mis3371-related needs
